@@ -13,7 +13,7 @@ We have not programmed this game to collect any personally identifiable informat
 ## **Children’s Privacy**
 
 
-## ** Contact us**
+## **Contact us**
 
 If you find any security vulnerability that has been inadvertently caused by us, or have any question regarding how the app protectes your privacy, please send me an email and we will surely try to fix it/help you.
 
