@@ -2,7 +2,7 @@
 
 Welcome to the Lobo Game!
 
-##**Privacy Policy**
+## **Privacy Policy**
 
 
 
