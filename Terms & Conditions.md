@@ -7,3 +7,7 @@ The app does use third-party services that declare their Terms and Conditions.
 Link to Terms and Conditions of third-party service providers used by the app
 
 - Unity
+
+Contact Us
+
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at reversegravitycompany@gmail.com.
