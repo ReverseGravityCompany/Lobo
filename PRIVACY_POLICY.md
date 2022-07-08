@@ -11,7 +11,9 @@ We take privacy very seriously. we know how irritating it is when apps collect y
 We have not programmed this game to collect any personally identifiable information. All data is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
 ## **Children’s Privacy**
-
+as we said , we do not store any information .
+The ads shown are from unity ads (https://unity3d.com/legal/privacy-policy), and we've confirmed that this program is for children under the age of 13.
+we accepted that this game is played under 13 years -> https://ibb.co/hf7j2wR
 
 ## **Contact us**
 
