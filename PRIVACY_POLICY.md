@@ -13,7 +13,7 @@ We have not programmed this game to collect any personally identifiable informat
 ## **Children’s Privacy**
 as we said , we do not store any information .
 The ads shown are from unity ads (https://unity3d.com/legal/privacy-policy), and we've confirmed that this program is for children under the age of 13.
-we accepted that this game is played under 13 years -> https://ibb.co/hf7j2wR
+we accepted that this game is played under 13 years -> ![This is an image][https://ibb.co/hf7j2wR]
 
 ## **Contact us**
 
