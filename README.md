@@ -12,4 +12,4 @@
 
 ## We didn't take the time to make the game well. WE HOPE YOU ENJOY :)
 
-Play on https://reversegravity.itch.io/lobo
+#Play on https://reversegravity.itch.io/lobo
