@@ -11,3 +11,5 @@
 ## Press K in the main menu to active Cheat (just for the next round) (10000 health)
 
 ## We didn't take the time to make the game well. WE HOPE YOU ENJOY :)
+
+Play on https://reversegravity.itch.io/lobo
