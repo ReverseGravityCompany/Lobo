@@ -1,6 +1,6 @@
 # Lobo : Privacy policy
 
-Welcome to the Lobo Game!
+### Welcome to the Lobo Game!
 
 ## **Privacy Policy**
 
