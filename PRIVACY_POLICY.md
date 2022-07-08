@@ -22,3 +22,5 @@ If you find any security vulnerability that has been inadvertently caused by us,
 Arian khatib
 sajad khatib
 reversegravitycompany@gmail.com
+
+### **More Information from developer**
