@@ -4,7 +4,7 @@
 
 ## **Privacy Policy**
 
-
+ReverseGravity built the Lobo app as an Ad Supported app.
 
 We take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
