@@ -6,7 +6,7 @@ The app does use third-party services that declare their Terms and Conditions.
 
 Link to Terms and Conditions of third-party service providers used by the app
 
-- Unity
+- [Unity](https://unity3d.com/legal/terms-of-service)
 
 Contact Us
 
